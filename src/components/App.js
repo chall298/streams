@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Link } from 'react-router-dom';
 const App = () => {
     return (
         <div>
-            App
+            App!
         </div>
     );
 }
